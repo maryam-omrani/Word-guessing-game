@@ -11,15 +11,22 @@
 نحوه نصب و اجرا
 ۱. ابتدا مخزن را کلون کنید:
 git clone https://github.com/maryam-omrani/Word-guessing-game.git
+
+
 ۲. به پوشه پروژه بروید:
 cd word-guess-game
 
+
+
 ۳. وابستگی‌ها را نصب کنید:
 npm install
+
+
 ۴. پروژه را اجرا کنید:
 
 
 npm start
+
 ۵. بازی در مرورگر به آدرس زیر در دسترس خواهد بود:
 
 
