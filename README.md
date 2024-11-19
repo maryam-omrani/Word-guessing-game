@@ -14,7 +14,7 @@ git clone https://github.com/maryam-omrani/Word-guessing-game.git
 
 
 ۲. به پوشه پروژه بروید:
-cd word-guess-game
+cd word-guessing-game
 
 
 
